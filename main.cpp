@@ -5,7 +5,7 @@ int distanceFloor(int height, int time);//calculate the distance relative to the
 int timer(int x);//return x+1
 
 int main(){
-    int a{1500};// Height of the building
+    int a{0};// Height of the building
     int cont{0};// Simple timer that act like seconds passing in our code
     
 
